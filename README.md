@@ -7,3 +7,9 @@ Deeplearning 알고리즘에 관해서 단순히 framework를 가져다 쓰는 �
 - 기본적인 신경망 모델
 - backpropagation의 과정을 살펴보기
 
+
+## 2. Convolution Network
+
+- feedforward
+- backpropagation 
+- convolution stack
