@@ -20,3 +20,7 @@ Deeplearning 알고리즘에 관해서 단순히 framework를 가져다 쓰는 �
 - backpropagation
 - hidden state
 
+## 4. [DenseNet](https://github.com/RRoundTable/DeepLearning_Tutorial/blob/master/DenseNet/densenet.py)
+
+- 논문구현체
+- dense connectivity 주목하기
